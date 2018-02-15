@@ -29,7 +29,7 @@
 <img src="https://image.ibb.co/j4p3mS/myimage.jpg" alt="myimage" border="0">
 
   <img src="">
-  <p>Hi! I'm Kadiajt, and am a Nigeian-based designer. This is my first Front-end design. Thanks!
+  <p>Hi! I'm Kadijat, and am a Nigerian-based designer. This is my first Front-end design. Thanks!
   <input type="Email" placeholder="Your Email">
   <input type="Submit">
 </body>
