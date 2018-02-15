@@ -5,30 +5,31 @@
   <style>
     body {
       text-align: center;
-       background: url("http://dash.ga.co/assets/anna-bg.png");
-       background-size:cover;
-       background-position:center;
-      color: white;
+      background: url("https://image.ibb.co/nJbG6S/michael_olsen_521864.jpg");
+      background-size: cover;
+      background-position: center;
+      color: black;
       font-family: helvetica;
     }
-    p{
-      font-size:22px;
-      }
-      input{
-            border:0;
-            padding: 10px; 
-            font-size:18px;
-            }
-            input[type="submit"]{
-                                  background:red;
-                                  color:white;
-              }
-</style>
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background:yellow;
+      color: black;
+    }
+  </style>
 </head>
 <body>
-  <img src="/assets/anna.png">
+<img src="https://image.ibb.co/j4p3mS/myimage.jpg" alt="myimage" border="0">
 
-  <p>Hi! I'm Anna, a NYC-based marketer. Say hello!</p>
-  <input type="email" placeholder="Your email">
-  <input type="submit">
+  <img src="">
+  <p>Hi! I'm Kadiajt, and am a Nigeian-based designer. This is my first Front-end design. Thanks!
+  <input type="Email" placeholder="Your Email">
+  <input type="Submit">
 </body>
